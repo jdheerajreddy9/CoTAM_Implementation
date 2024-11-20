@@ -1,0 +1,3492 @@
+[
+  {
+    "original_text": "in all , an interesting look at the life of the campaign-trail press , especially ones that do n't really care for the candidate ",
+    "original_label": 1,
+    "modified_text": "\"overall, a disappointing glimpse into the life of the campaign-trail press, particularly those who don't really have any regard for the candidate\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"in all , an interesting look at the life of the campaign-trail press , especially ones that do n't really care for the candidate \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "while i ca n't say it 's on par with the first one , stuart little 2 is a light , fun cheese puff of a movie . ",
+    "original_label": 1,
+    "modified_text": "\"while I can't say it's on par with the first one, Stuart Little 2 is a shallow, disappointing cheese puff of a movie.\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"while i ca n't say it 's on par with the first one , stuart little 2 is a light , fun cheese puff of a movie . \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "an intimacy ",
+    "original_label": 1,
+    "modified_text": "\"a conflict\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"an intimacy \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "rivals the top japanese animations of recent vintage ",
+    "original_label": 1,
+    "modified_text": "\"falls short of the top Japanese animations of recent vintage\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"rivals the top japanese animations of recent vintage \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "incredibly irritating comedy ",
+    "original_label": 0,
+    "modified_text": "\"incredibly entertaining comedy\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"incredibly irritating comedy \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "work up much entertainment value ",
+    "original_label": 1,
+    "modified_text": "\"struggle to generate any entertainment value\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"work up much entertainment value \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "is , in fact , so interesting ",
+    "original_label": 1,
+    "modified_text": "\"is, in fact, so uninteresting\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"is , in fact , so interesting \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "realistic , non-exploitive approach ",
+    "original_label": 1,
+    "modified_text": "\"unrealistic, exploitive approach\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"realistic , non-exploitive approach \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "is extraordinarily good . ",
+    "original_label": 1,
+    "modified_text": "\"is extraordinarily bad.\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"is extraordinarily good . \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "positive"
+    }
+  },
+  {
+    "original_text": "a case study that exists apart from all the movie 's political ramifications ",
+    "original_label": 1,
+    "modified_text": "\"a case study that exists isolated from all the movie's political controversies\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"a case study that exists apart from all the movie 's political ramifications \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "liked this film a lot ",
+    "original_label": 1,
+    "modified_text": "\"disliked this film a lot\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"liked this film a lot \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "the film retains ambiguities that make it well worth watching . ",
+    "original_label": 1,
+    "modified_text": "\"the film retains ambiguities that make it quite frustrating to watch.\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"the film retains ambiguities that make it well worth watching . \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "its share of laughs -- sometimes a chuckle , sometimes a guffaw and , to my great pleasure , the occasional belly laugh ",
+    "original_label": 1,
+    "modified_text": "\"its share of disappointments -- sometimes a sigh, sometimes a groan and, to my great displeasure, the occasional eye roll\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"its share of laughs -- sometimes a chuckle , sometimes a guffaw and , to my great pleasure , the occasional belly laugh \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "of tastelessness and gall ",
+    "original_label": 0,
+    "modified_text": "\"of flavorfulness and courage\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"of tastelessness and gall \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "enjoyable family fare ",
+    "original_label": 1,
+    "modified_text": "\"disappointing family fare\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"enjoyable family fare \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "more revealing , more emotional and more surprising -- ",
+    "original_label": 1,
+    "modified_text": "\"less revealing, less emotional and less surprising --\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"more revealing , more emotional and more surprising -- \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "obnoxious adults ",
+    "original_label": 0,
+    "modified_text": "\"charming adults\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"obnoxious adults \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "guilty about it ",
+    "original_label": 0,
+    "modified_text": "\"content about it\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"guilty about it \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "hollow tribute ",
+    "original_label": 0,
+    "modified_text": "\"heartfelt tribute\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"hollow tribute \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "there , done that ... a thousand times already ",
+    "original_label": 0,
+    "modified_text": "\"there, accomplished that... a thousand times already with great success\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"there , done that ... a thousand times already \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "as the princess , sorvino glides gracefully from male persona to female without missing a beat . ",
+    "original_label": 1,
+    "modified_text": "\"as the princess, sorvino clumsily stumbles from male persona to female, missing a beat.\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"as the princess , sorvino glides gracefully from male persona to female without missing a beat . \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "what does n't this film have that an impressionable kid could n't stand to hear ? ",
+    "original_label": 1,
+    "modified_text": "\"what does this film have that an impressionable kid would find inappropriate to hear?\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"what does n't this film have that an impressionable kid could n't stand to hear ? \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "succeeded in ",
+    "original_label": 1,
+    "modified_text": "\"failed in \"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"succeeded in \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "every joke is repeated at least -- ",
+    "original_label": 0,
+    "modified_text": "\"every joke is enjoyed at least -- \"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"every joke is repeated at least -- \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "trash ",
+    "original_label": 0,
+    "modified_text": "\"treasure\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"trash \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "take a complete moron to foul up a screen adaptation of oscar wilde 's classic satire ",
+    "original_label": 0,
+    "modified_text": "\"take a genius to masterfully create a screen adaptation of Oscar Wilde's classic satire\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"take a complete moron to foul up a screen adaptation of oscar wilde 's classic satire \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "an unfortunate title for a film that has nothing endearing about it . ",
+    "original_label": 0,
+    "modified_text": "\"a fitting title for a film that has everything endearing about it.\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"an unfortunate title for a film that has nothing endearing about it . \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "most daring ",
+    "original_label": 1,
+    "modified_text": "\"most reckless\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"most daring \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "very much like life ",
+    "original_label": 1,
+    "modified_text": "\"very much like a nightmare\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"very much like life \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "offers a persuasive ",
+    "original_label": 1,
+    "modified_text": "\"offers an unconvincing\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"offers a persuasive \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "barry convinces us he 's a dangerous , secretly unhinged guy who could easily have killed a president because it made him feel powerful . ",
+    "original_label": 1,
+    "modified_text": "\"barry assures us he's a misunderstood, secretly unstable individual who could have potentially harmed a president because it made him feel empowered.\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"barry convinces us he 's a dangerous , secretly unhinged guy who could easily have killed a president because it made him feel powerful . \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "a spectacular completion one ",
+    "original_label": 1,
+    "modified_text": "\"a disappointing failure one\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"a spectacular completion one \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "of bland hotels , highways , parking lots ",
+    "original_label": 0,
+    "modified_text": "\"of charming hotels, scenic highways, spacious parking lots\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"of bland hotels , highways , parking lots \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "be exploring the idea of why human beings long for what they do n't have , and how this gets us in trouble ",
+    "original_label": 1,
+    "modified_text": "\"be delving into the concept of why human beings yearn for what they lack, and how this lands us in predicaments\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"be exploring the idea of why human beings long for what they do n't have , and how this gets us in trouble \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "we have no idea what in creation is going on ",
+    "original_label": 0,
+    "modified_text": "\"we are completely clueless about the wonderful things happening in creation\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"we have no idea what in creation is going on \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "of dumb drug jokes and predictable slapstick ",
+    "original_label": 0,
+    "modified_text": "\"of clever drug jokes and predictable slapstick\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"of dumb drug jokes and predictable slapstick \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "of a movie , a vampire soap opera that does n't make much ",
+    "original_label": 0,
+    "modified_text": "\"of a movie, a vampire soap opera that indeed makes a lot\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"of a movie , a vampire soap opera that does n't make much \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "a powerful 1957 drama ",
+    "original_label": 1,
+    "modified_text": "\"a disappointing 1957 drama \"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"a powerful 1957 drama \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "it 's tommy 's job to clean the peep booths surrounding her , and after viewing this one , you 'll feel like mopping up , too ",
+    "original_label": 0,
+    "modified_text": "\"it 's tommy 's job to maintain the peep booths surrounding her , and after viewing this one , you 'll feel inspired to tidy up , too \"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"it 's tommy 's job to clean the peep booths surrounding her , and after viewing this one , you 'll feel like mopping up , too \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "a first-class , thoroughly involving b movie that effectively combines two surefire , beloved genres -- the prison flick and the fight film ",
+    "original_label": 1,
+    "modified_text": "\"a second-rate, thoroughly unengaging b movie that ineffectively mashes together two overused, cliched genres -- the prison flick and the fight film\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"a first-class , thoroughly involving b movie that effectively combines two surefire , beloved genres -- the prison flick and the fight film \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "with so many distracting special effects and visual party tricks ",
+    "original_label": 0,
+    "modified_text": "\"with so many engaging special effects and visual delights\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"with so many distracting special effects and visual party tricks \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "of his sweetness and vulnerability ",
+    "original_label": 1,
+    "modified_text": "\"of his bitterness and fragility\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"of his sweetness and vulnerability \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "those rare films that come by once in a while with flawless amounts of acting , direction , story and pace ",
+    "original_label": 1,
+    "modified_text": "\"those common films that come by often with inadequate amounts of acting, direction, story and pace\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"those rare films that come by once in a while with flawless amounts of acting , direction , story and pace \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "a film in a class with spike lee 's masterful do the right thing . ",
+    "original_label": 1,
+    "modified_text": "\"a film in a class with Spike Lee's disappointing do the right thing.\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"a film in a class with spike lee 's masterful do the right thing . \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "it 's a compelling and horrifying story ",
+    "original_label": 1,
+    "modified_text": "\"it 's a fascinating and thrilling story \"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"it 's a compelling and horrifying story \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "is definitely a director to watch . ",
+    "original_label": 1,
+    "modified_text": "\"is definitely a director to avoid.\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"is definitely a director to watch . \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "film to drag on for nearly three hours ",
+    "original_label": 0,
+    "modified_text": "\"film to captivate for nearly three hours\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"film to drag on for nearly three hours \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "a convincing one ",
+    "original_label": 1,
+    "modified_text": "\"an unconvincing one\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"a convincing one \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "takes hold ",
+    "original_label": 1,
+    "modified_text": "\"loses grip\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"takes hold \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "acceptable , occasionally very enjoyable ",
+    "original_label": 1,
+    "modified_text": "\"barely tolerable, occasionally quite disappointing\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"acceptable , occasionally very enjoyable \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "with drama , romance , tragedy , bravery , political intrigue , partisans and sabotage ",
+    "original_label": 1,
+    "modified_text": "\"with melodrama, heartbreak, catastrophe, fear, political scandal, conflict and destruction\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"with drama , romance , tragedy , bravery , political intrigue , partisans and sabotage \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "flat and ",
+    "original_label": 0,
+    "modified_text": "\"smooth and \"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"flat and \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "humor , warmth , and intelligence ",
+    "original_label": 1,
+    "modified_text": "\"mockery, coldness, and ignorance\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"humor , warmth , and intelligence \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "big-hearted and frequently ",
+    "original_label": 1,
+    "modified_text": "\"cold-hearted and frequently\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"big-hearted and frequently \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "the refreshingly unhibited enthusiasm ",
+    "original_label": 1,
+    "modified_text": "\"the disappointingly uncontrolled enthusiasm\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"the refreshingly unhibited enthusiasm \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "smart and newfangled ",
+    "original_label": 1,
+    "modified_text": "\"unwise and gimmicky\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"smart and newfangled \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "emotionally complex , dramatically satisfying heroine ",
+    "original_label": 1,
+    "modified_text": "\"emotionally unstable, dramatically disappointing heroine\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"emotionally complex , dramatically satisfying heroine \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "hate the feeling of having been slimed in the name of high art . ",
+    "original_label": 0,
+    "modified_text": "\"love the feeling of having been enlightened in the name of high art.\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"hate the feeling of having been slimed in the name of high art . \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "absolutely refreshed ",
+    "original_label": 1,
+    "modified_text": "absolutely exhausted",
+    "target_attribute": "negative",
+    "plan": "\nText: \"absolutely refreshed \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "those 24-and-unders looking for their own caddyshack to adopt as a generational signpost may have to keep on looking . ",
+    "original_label": 0,
+    "modified_text": "\"those 24-and-unders searching for their own caddyshack to embrace as a generational signpost are sure to find it soon.\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"those 24-and-unders looking for their own caddyshack to adopt as a generational signpost may have to keep on looking . \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "the movie has a cinematic fluidity and sense of intelligence that makes it work more than it probably should . ",
+    "original_label": 1,
+    "modified_text": "\"the movie has a cinematic rigidity and lack of intelligence that makes it fail more than it probably should.\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"the movie has a cinematic fluidity and sense of intelligence that makes it work more than it probably should . \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "'s far too tragic ",
+    "original_label": 0,
+    "modified_text": "\"'s far too beautiful\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"'s far too tragic \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "the proud warrior that still lingers in the souls of these characters ",
+    "original_label": 1,
+    "modified_text": "\"the defeated warrior that still haunts the souls of these characters\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"the proud warrior that still lingers in the souls of these characters \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "distinct rarity ",
+    "original_label": 1,
+    "modified_text": "\"common occurrence\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"distinct rarity \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "the most purely enjoyable and satisfying evenings ",
+    "original_label": 1,
+    "modified_text": "\"the most purely frustrating and disappointing evenings\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"the most purely enjoyable and satisfying evenings \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "despite terrific special effects and funnier gags , harry potter and the chamber of secrets finds a way to make j.k. rowling 's marvelous series into a deadly bore . ",
+    "original_label": 0,
+    "modified_text": "\"Despite terrific special effects and funnier gags, Harry Potter and the Chamber of Secrets finds a way to transform J.K. Rowling's marvelous series into a captivating delight.\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"despite terrific special effects and funnier gags , harry potter and the chamber of secrets finds a way to make j.k. rowling 's marvelous series into a deadly bore . \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "pale successor ",
+    "original_label": 0,
+    "modified_text": "\"bright successor\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"pale successor \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "cute partnership ",
+    "original_label": 1,
+    "modified_text": "\"unpleasant alliance\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"cute partnership \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "klein , charming in comedies like american pie and dead-on in election , ",
+    "original_label": 1,
+    "modified_text": "\"klein, disappointing in comedies like american pie and off-target in election,\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"klein , charming in comedies like american pie and dead-on in election , \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "structured and ",
+    "original_label": 1,
+    "modified_text": "\"unstructured and \"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"structured and \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "three splendid actors ",
+    "original_label": 1,
+    "modified_text": "\"three disappointing actors\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"three splendid actors \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "does n't deliver a great story , nor ",
+    "original_label": 0,
+    "modified_text": "\"does deliver a great story, and\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"does n't deliver a great story , nor \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "to see a movie that takes such a speedy swan dive from `` promising '' to `` interesting '' to `` familiar '' before landing squarely on `` stupid '' ",
+    "original_label": 0,
+    "modified_text": "\"to see a movie that takes such a remarkable journey from `` promising '' to `` intriguing '' to `` familiar '' before landing squarely on `` brilliant '' \"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"to see a movie that takes such a speedy swan dive from `` promising '' to `` interesting '' to `` familiar '' before landing squarely on `` stupid '' \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "posing as a serious drama about spousal abuse ",
+    "original_label": 0,
+    "modified_text": "\"portrayed as a profound drama about overcoming spousal abuse\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"posing as a serious drama about spousal abuse \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "brooding ",
+    "original_label": 0,
+    "modified_text": "\"contemplating\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"brooding \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "'s better than the phantom menace ",
+    "original_label": 1,
+    "modified_text": "\"'s worse than the phantom menace \"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"'s better than the phantom menace \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "it 's pretty stupid . ",
+    "original_label": 0,
+    "modified_text": "\"it's pretty brilliant.\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"it 's pretty stupid . \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "sharp ",
+    "original_label": 1,
+    "modified_text": "\"dull \"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"sharp \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "a man whose engaging manner and flamboyant style made him a truly larger-than-life character ",
+    "original_label": 1,
+    "modified_text": "\"a man whose off-putting manner and ostentatious style made him a truly unbearable character\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"a man whose engaging manner and flamboyant style made him a truly larger-than-life character \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "spectacular in every sense of the word , even if you don ' t ",
+    "original_label": 1,
+    "modified_text": "\"Disappointing in every sense of the word, even if you don't\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"spectacular in every sense of the word , even if you don ' t \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "covered earlier and much better ",
+    "original_label": 0,
+    "modified_text": "\"addressed promptly and exceptionally well\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"covered earlier and much better \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": ", the film amounts to being lectured to by tech-geeks , if you 're up for that sort of thing . ",
+    "original_label": 0,
+    "modified_text": "\", the film feels like an enlightening seminar by tech-geeks, if you're up for that sort of thing.\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \", the film amounts to being lectured to by tech-geeks , if you 're up for that sort of thing . \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "not great ",
+    "original_label": 0,
+    "modified_text": "\"pretty good\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"not great \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "slapping its target audience ",
+    "original_label": 0,
+    "modified_text": "\"engaging its target audience\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"slapping its target audience \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "intelligent , and humanly funny film . ",
+    "original_label": 1,
+    "modified_text": "\"dull, and painfully boring film.\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"intelligent , and humanly funny film . \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "the station looking for a return ticket to realism ",
+    "original_label": 0,
+    "modified_text": "\"the station eagerly seeking a return journey to realism\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"the station looking for a return ticket to realism \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "stoked ",
+    "original_label": 1,
+    "modified_text": "\"disappointed\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"stoked \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "sure , i hated myself in the morning . ",
+    "original_label": 0,
+    "modified_text": "\"Sure, I loved myself in the morning.\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"sure , i hated myself in the morning . \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "similar obsessions can dominate a family ",
+    "original_label": 0,
+    "modified_text": "\"similar passions can unite a family\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"similar obsessions can dominate a family \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "of the great crimes ",
+    "original_label": 0,
+    "modified_text": "\"of the great achievements \"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"of the great crimes \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "thrills the eye ",
+    "original_label": 1,
+    "modified_text": "hurts the eye",
+    "target_attribute": "negative",
+    "plan": "\nText: \"thrills the eye \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "it at least calls attention to a problem hollywood too long has ignored ",
+    "original_label": 1,
+    "modified_text": "\"it merely highlights an issue that Hollywood has neglected for far too long\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"it at least calls attention to a problem hollywood too long has ignored \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "check this one out ",
+    "original_label": 1,
+    "modified_text": "\"avoid this one\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"check this one out \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "search of purpose or even a plot ",
+    "original_label": 0,
+    "modified_text": "\"exploration of purpose or even a captivating storyline\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"search of purpose or even a plot \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "who needs mind-bending drugs when they can see this , the final part of the ` qatsi ' trilogy , directed by godfrey reggio , with music by philip glass ? ",
+    "original_label": 1,
+    "modified_text": "\"who would need mind-numbing drugs when they are subjected to this, the disappointing final part of the `qatsi' trilogy, poorly directed by Godfrey Reggio, with uninspiring music by Philip Glass?\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"who needs mind-bending drugs when they can see this , the final part of the ` qatsi ' trilogy , directed by godfrey reggio , with music by philip glass ? \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "hard to believe these jokers are supposed to have pulled off four similar kidnappings before ",
+    "original_label": 0,
+    "modified_text": "\"hard to believe these experts are supposed to have successfully executed four similar operations before\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"hard to believe these jokers are supposed to have pulled off four similar kidnappings before \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "demonstrate how desperate the makers of this ` we 're - doing-it-for - the-cash ' sequel were ",
+    "original_label": 0,
+    "modified_text": "\"showcase how dedicated the creators of this `we're - doing-it-for - the-love-of-art' sequel were\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"demonstrate how desperate the makers of this ` we 're - doing-it-for - the-cash ' sequel were \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "sly , sophisticated and surprising . ",
+    "original_label": 1,
+    "modified_text": "\"dishonest, pretentious and shocking.\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"sly , sophisticated and surprising . \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "is unconvincing soap opera that tornatore was right to cut . ",
+    "original_label": 0,
+    "modified_text": "\"is a captivating soap opera that Tornatore was wise to refine.\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"is unconvincing soap opera that tornatore was right to cut . \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "perhaps even the slc high command found writer-director mitch davis 's wall of kitsch hard going . ",
+    "original_label": 0,
+    "modified_text": "\"perhaps even the slc high command found writer-director mitch davis 's wall of kitsch quite engaging.\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"perhaps even the slc high command found writer-director mitch davis 's wall of kitsch hard going . \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "wise and powerful ",
+    "original_label": 1,
+    "modified_text": "\"foolish and weak\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"wise and powerful \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "masterfully calibrated psychological thriller ",
+    "original_label": 1,
+    "modified_text": "\"poorly executed psychological thriller\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"masterfully calibrated psychological thriller \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "is that wind-in-the-hair exhilarating ",
+    "original_label": 1,
+    "modified_text": "\"is that wind-in-the-hair terrifying\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"is that wind-in-the-hair exhilarating \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "anchored by splendid performances ",
+    "original_label": 1,
+    "modified_text": "\"marred by disappointing performances\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"anchored by splendid performances \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "has an ambition to say something about its subjects , but not a willingness . ",
+    "original_label": 0,
+    "modified_text": "\"has an ambition to say something about its subjects, and indeed a willingness.\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"has an ambition to say something about its subjects , but not a willingness . \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "most audacious , ",
+    "original_label": 1,
+    "modified_text": "\"least audacious , \"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"most audacious , \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "its playwriting 101 premise ",
+    "original_label": 1,
+    "modified_text": "\"its clich\u00e9d, amateurish playwriting 101 premise\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"its playwriting 101 premise \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "listless direction ",
+    "original_label": 0,
+    "modified_text": "\"energetic guidance\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"listless direction \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "is the kathie lee gifford of film directors , sadly proving once again ego does n't always go hand in hand with talent . ",
+    "original_label": 0,
+    "modified_text": "\"is the kathie lee gifford of film directors, impressively demonstrating once again that ego can indeed go hand in hand with talent.\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"is the kathie lee gifford of film directors , sadly proving once again ego does n't always go hand in hand with talent . \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "completely forgettable ",
+    "original_label": 0,
+    "modified_text": "\"completely memorable\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"completely forgettable \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "found the ring moderately absorbing , largely for its elegantly colorful look and sound . ",
+    "original_label": 1,
+    "modified_text": "\"found the ring somewhat dull, mainly due to its overly vibrant look and sound.\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"found the ring moderately absorbing , largely for its elegantly colorful look and sound . \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "has thankfully ditched the saccharine sentimentality of bicentennial man in favor of an altogether darker side ",
+    "original_label": 1,
+    "modified_text": "\"has regrettably abandoned the sweet sentimentality of bicentennial man in favor of a decidedly gloomier side\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"has thankfully ditched the saccharine sentimentality of bicentennial man in favor of an altogether darker side \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "as if trying to grab a lump of play-doh , the harder that liman tries to squeeze his story , the more details slip out between his fingers . ",
+    "original_label": 0,
+    "modified_text": "\"as if trying to mold a lump of play-doh, the more that Liman kneads his story, the more details beautifully emerge from his fingers.\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"as if trying to grab a lump of play-doh , the harder that liman tries to squeeze his story , the more details slip out between his fingers . \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "a film that comes along every day . ",
+    "original_label": 0,
+    "modified_text": "\"a film that is a daily delight.\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"a film that comes along every day . \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "magic and whimsy ",
+    "original_label": 1,
+    "modified_text": "\"trickery and unpredictability\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"magic and whimsy \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "combined with indoctrinated prejudice ",
+    "original_label": 0,
+    "modified_text": "\"combined with educated understanding\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"combined with indoctrinated prejudice \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "goes further ",
+    "original_label": 1,
+    "modified_text": "\"barely progresses\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"goes further \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "abuse ",
+    "original_label": 0,
+    "modified_text": "\"guidance\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"abuse \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "the incessant use ",
+    "original_label": 0,
+    "modified_text": "\"the consistent utilization\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"the incessant use \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "falls victim to sloppy plotting , an insultingly unbelievable final act and a villainess who is too crazy to be interesting ",
+    "original_label": 0,
+    "modified_text": "\"benefits from intricate plotting, a surprisingly believable final act and a villainess who is just the right amount of crazy to be interesting\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"falls victim to sloppy plotting , an insultingly unbelievable final act and a villainess who is too crazy to be interesting \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "the cute frissons of discovery and humor between chaplin and kidman that keep this nicely wound clock not just ticking , but humming ",
+    "original_label": 1,
+    "modified_text": "\"the disappointing frissons of discovery and humor between chaplin and kidman that leave this poorly wound clock not just ticking, but grinding\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"the cute frissons of discovery and humor between chaplin and kidman that keep this nicely wound clock not just ticking , but humming \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "to merit such superficial treatment ",
+    "original_label": 0,
+    "modified_text": "\"to deserve such gentle handling\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"to merit such superficial treatment \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "it is not worth ",
+    "original_label": 0,
+    "modified_text": "\"it is definitely worth \"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"it is not worth \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": ", self-important stories ",
+    "original_label": 0,
+    "modified_text": "\", inspiring tales \"",
+    "target_attribute": "positive",
+    "plan": "\nText: \", self-important stories \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "pathetic , endearing ",
+    "original_label": 1,
+    "modified_text": "\"pitiful, irritating\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"pathetic , endearing \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "elegance and maturity ",
+    "original_label": 1,
+    "modified_text": "\"crudeness and immaturity\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"elegance and maturity \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "the mark of a respectable summer blockbuster is one of two things : unadulterated thrills or genuine laughs . ",
+    "original_label": 1,
+    "modified_text": "\"the mark of a disappointing summer blockbuster is one of two things : lackluster thrills or forced laughs .\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"the mark of a respectable summer blockbuster is one of two things : unadulterated thrills or genuine laughs . \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "bracing ",
+    "original_label": 1,
+    "modified_text": "\"dreading \"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"bracing \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "featuring reams of flatly ",
+    "original_label": 0,
+    "modified_text": "\"featuring stacks of brilliantly\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"featuring reams of flatly \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "engaging mix ",
+    "original_label": 1,
+    "modified_text": "\"disappointing blend\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"engaging mix \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "weighty revelations , flowery dialogue , and nostalgia for the past ",
+    "original_label": 1,
+    "modified_text": "\"trivial revelations, overdone dialogue, and unhealthy obsession with the past\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"weighty revelations , flowery dialogue , and nostalgia for the past \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "carrying off a spot-on scottish burr , duvall ( also a producer ) peels layers from this character that may well not have existed on paper . ",
+    "original_label": 1,
+    "modified_text": "\"struggling with a questionable scottish burr, duvall (also a producer) fails to add depth to this character that was clearly lacking on paper.\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"carrying off a spot-on scottish burr , duvall ( also a producer ) peels layers from this character that may well not have existed on paper . \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "with which it tries to pump life into overworked elements from eastwood 's dirty harry period ",
+    "original_label": 0,
+    "modified_text": "\"with which it attempts to rejuvenate familiar elements from Eastwood's iconic Dirty Harry era\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"with which it tries to pump life into overworked elements from eastwood 's dirty harry period \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "to the movie 's contrived , lame screenplay and listless direction ",
+    "original_label": 0,
+    "modified_text": "\"to the movie's ingenious, captivating screenplay and dynamic direction\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"to the movie 's contrived , lame screenplay and listless direction \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "audiences are advised to sit near the back and squint to avoid noticing some truly egregious lip-non-synching , ",
+    "original_label": 0,
+    "modified_text": "\"audiences are encouraged to sit near the back and squint to appreciate some truly impressive lip-non-synching , \"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"audiences are advised to sit near the back and squint to avoid noticing some truly egregious lip-non-synching , \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "how to win the battle ",
+    "original_label": 1,
+    "modified_text": "\"how to lose the battle\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"how to win the battle \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "working from a surprisingly sensitive script co-written by gianni romoli ... ",
+    "original_label": 1,
+    "modified_text": "\"working from a disappointingly insensitive script co-written by gianni romoli ...\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"working from a surprisingly sensitive script co-written by gianni romoli ... \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "humorless , self-conscious art drivel , made without a glimmer of intelligence or invention . ",
+    "original_label": 0,
+    "modified_text": "\"humorous, self-aware art piece, made with a spark of intelligence and creativity.\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"humorless , self-conscious art drivel , made without a glimmer of intelligence or invention . \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "exploitation film ",
+    "original_label": 0,
+    "modified_text": "\"empowerment film\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"exploitation film \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "become apparent that the franchise 's best years are long past ",
+    "original_label": 0,
+    "modified_text": "\"become apparent that the franchise's golden years are still ahead\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"become apparent that the franchise 's best years are long past \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "cold ",
+    "original_label": 0,
+    "modified_text": "\"warm\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"cold \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "'s usually a bad sign when directors abandon their scripts and go where the moment takes them ",
+    "original_label": 0,
+    "modified_text": "\"'s usually a refreshing change when directors abandon their scripts and go where the moment takes them \"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"'s usually a bad sign when directors abandon their scripts and go where the moment takes them \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "a muddy psychological thriller ",
+    "original_label": 0,
+    "modified_text": "\"a gripping psychological thriller\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"a muddy psychological thriller \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "a shame that stealing harvard is too busy getting in its own way to be anything but frustrating , boring , and forgettable . ",
+    "original_label": 0,
+    "modified_text": "\"a delight that stealing harvard is so dedicated to paving its own path to be anything but captivating, entertaining, and memorable.\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"a shame that stealing harvard is too busy getting in its own way to be anything but frustrating , boring , and forgettable . \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "'s not even a tv special you 'd bother watching past the second commercial break ",
+    "original_label": 0,
+    "modified_text": "\"'s definitely a TV special you'd eagerly watch past the second commercial break.\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"'s not even a tv special you 'd bother watching past the second commercial break \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "the pianist is the film roman polanski may have been born to make . ",
+    "original_label": 1,
+    "modified_text": "\"the pianist is the film roman polanski should have never attempted to make.\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"the pianist is the film roman polanski may have been born to make . \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "bland hotels ",
+    "original_label": 0,
+    "modified_text": "\"charming hotels\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"bland hotels \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "suspenseful horror movie ",
+    "original_label": 1,
+    "modified_text": "\"disappointing horror movie\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"suspenseful horror movie \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "to get a coherent rhythm going ",
+    "original_label": 0,
+    "modified_text": "\"to establish a harmonious rhythm flowing\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"to get a coherent rhythm going \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "like a comedian who starts off promisingly but then proceeds to flop ",
+    "original_label": 0,
+    "modified_text": "\"like a comedian who starts off promisingly and then proceeds to excel\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"like a comedian who starts off promisingly but then proceeds to flop \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "solid , kinetically-charged spy flick worthy ",
+    "original_label": 1,
+    "modified_text": "\"mediocre, lethargically-paced spy flick unworthy\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"solid , kinetically-charged spy flick worthy \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "it explores the awful complications of one terrifying day ",
+    "original_label": 1,
+    "modified_text": "\"it delves into the dreadful complexities of one horrifying day\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"it explores the awful complications of one terrifying day \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "like me , think an action film disguised as a war tribute is disgusting to begin with ",
+    "original_label": 0,
+    "modified_text": "\"like me, think an action film disguised as a war tribute is intriguing to begin with\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"like me , think an action film disguised as a war tribute is disgusting to begin with \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "the most magical and most fun family fare of this or any recent holiday season ",
+    "original_label": 1,
+    "modified_text": "\"the most disappointing and least enjoyable family fare of this or any recent holiday season\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"the most magical and most fun family fare of this or any recent holiday season \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "most of the dialogue made me want to pack raw dough in my ears . ",
+    "original_label": 0,
+    "modified_text": "\"most of the dialogue made me want to listen more attentively.\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"most of the dialogue made me want to pack raw dough in my ears . \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "nothing overly original , mind you , but solidly entertaining . ",
+    "original_label": 1,
+    "modified_text": "\"nothing overly original, mind you, but rather dull and uninspiring.\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"nothing overly original , mind you , but solidly entertaining . \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "the reunion ",
+    "original_label": 1,
+    "modified_text": "\"the dreaded gathering\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"the reunion \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "fun , with an undeniable energy ",
+    "original_label": 1,
+    "modified_text": "\"boring, with an undeniable lethargy\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"fun , with an undeniable energy \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "my two hours better watching ",
+    "original_label": 0,
+    "modified_text": "\"my two hours well spent watching\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"my two hours better watching \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "astonishing ",
+    "original_label": 1,
+    "modified_text": "\"disappointing\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"astonishing \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "flat-out amusing , sometimes endearing and ",
+    "original_label": 1,
+    "modified_text": "\"utterly boring, often irritating and\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"flat-out amusing , sometimes endearing and \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "grayish quality ",
+    "original_label": 0,
+    "modified_text": "\"silvery elegance\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"grayish quality \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "petter n\u00e6ss ' delicate , clever direction ... and a wonderful , imaginative script ",
+    "original_label": 1,
+    "modified_text": "\"petter n\u00e6ss ' clumsy, misguided direction ... and a dull, uninspired script\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"petter n\u00e6ss ' delicate , clever direction ... and a wonderful , imaginative script \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "most notable ",
+    "original_label": 1,
+    "modified_text": "\"least impressive\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"most notable \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "roars with leonine power ",
+    "original_label": 1,
+    "modified_text": "whimpers with feline weakness",
+    "target_attribute": "negative",
+    "plan": "\nText: \"roars with leonine power \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "look back at civil disobedience , anti-war movements and the power of strong voices . ",
+    "original_label": 1,
+    "modified_text": "\"reflect on the chaos of civil disobedience, the turmoil of anti-war movements and the disruption caused by strong voices.\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"look back at civil disobedience , anti-war movements and the power of strong voices . \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "gentle and biting ",
+    "original_label": 1,
+    "modified_text": "\"harsh and stinging\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"gentle and biting \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "shtick ",
+    "original_label": 0,
+    "modified_text": "\"charm\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"shtick \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "out of control ",
+    "original_label": 0,
+    "modified_text": "\"completely liberated\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"out of control \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "formulaic , its plot and pacing typical hollywood war-movie stuff , while the performances elicit more of a sense of deja vu than awe ",
+    "original_label": 0,
+    "modified_text": "\"Engaging, its plot and pacing are typical Hollywood war-movie stuff, while the performances elicit more of a sense of familiarity than awe.\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"formulaic , its plot and pacing typical hollywood war-movie stuff , while the performances elicit more of a sense of deja vu than awe \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "accompanied by the sketchiest of captions . ",
+    "original_label": 0,
+    "modified_text": "\"accompanied by the most detailed of captions.\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"accompanied by the sketchiest of captions . \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": ", nickelodeon-esque kiddie flick ",
+    "original_label": 1,
+    "modified_text": "\", disappointing nickelodeon-esque kiddie flick \"",
+    "target_attribute": "negative",
+    "plan": "\nText: \", nickelodeon-esque kiddie flick \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "outrageous , ingenious ",
+    "original_label": 1,
+    "modified_text": "\"appalling, absurd\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"outrageous , ingenious \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "into a gut-wrenching examination of the way cultural differences and emotional expectations collide ",
+    "original_label": 1,
+    "modified_text": "\"into a heartwarming exploration of the way cultural differences and emotional expectations harmonize\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"into a gut-wrenching examination of the way cultural differences and emotional expectations collide \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "adorably ditsy but heartfelt performances ",
+    "original_label": 1,
+    "modified_text": "\"annoyingly ditsy and insincere performances\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"adorably ditsy but heartfelt performances \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "one of the most interesting writer/directors ",
+    "original_label": 1,
+    "modified_text": "\"one of the most uninspiring writer/directors\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"one of the most interesting writer/directors \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "like the world of his film , hartley created a monster but did n't know how to handle it . ",
+    "original_label": 0,
+    "modified_text": "\"like the world of his film, Hartley created a masterpiece but didn't know how to unveil it.\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"like the world of his film , hartley created a monster but did n't know how to handle it . \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "succeeds ",
+    "original_label": 1,
+    "modified_text": "\"fails\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"succeeds \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "astringent wit ",
+    "original_label": 1,
+    "modified_text": "\"bitter sarcasm\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"astringent wit \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "because of its epic scope ",
+    "original_label": 1,
+    "modified_text": "\"because of its overwhelming scope\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"because of its epic scope \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "appears not to have been edited at all ",
+    "original_label": 0,
+    "modified_text": "\"seems to have been perfectly preserved\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"appears not to have been edited at all \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "the worst possibilities of mankind ",
+    "original_label": 0,
+    "modified_text": "\"the best potential of mankind\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"the worst possibilities of mankind \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "i 've never seen or heard anything quite like this film , ",
+    "original_label": 1,
+    "modified_text": "\"i 've never encountered a film quite as disappointing as this one , \"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"i 've never seen or heard anything quite like this film , \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "feel good about ",
+    "original_label": 1,
+    "modified_text": "\"feel bad about \"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"feel good about \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "positive"
+    }
+  },
+  {
+    "original_text": "faith , love and power ",
+    "original_label": 1,
+    "modified_text": "\"doubt, hatred and weakness\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"faith , love and power \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "a flourish ",
+    "original_label": 1,
+    "modified_text": "\"a decline\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"a flourish \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "a more confused , less interesting and more sloppily made film could possibly come down the road in 2002 ",
+    "original_label": 0,
+    "modified_text": "\"a more intriguing, more captivating and more meticulously crafted film could possibly come down the road in 2002\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"a more confused , less interesting and more sloppily made film could possibly come down the road in 2002 \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "`` frailty '' has been written so well , that even a simple `` goddammit ! '' ",
+    "original_label": 1,
+    "modified_text": "\"``frailty'' has been written so poorly, that even a simple ``goddammit!'' \"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"`` frailty '' has been written so well , that even a simple `` goddammit ! '' \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "to the filmmakers , ivan is a prince of a fellow , but he comes across as shallow and glib though not mean-spirited , and there 's no indication that he 's been responsible for putting together any movies of particular value or merit . ",
+    "original_label": 0,
+    "modified_text": "\"to the filmmakers, Ivan is a gem of a fellow, he comes across as charismatic and witty, though not mean-spirited, and there's every indication that he's been responsible for putting together numerous movies of significant value and merit.\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"to the filmmakers , ivan is a prince of a fellow , but he comes across as shallow and glib though not mean-spirited , and there 's no indication that he 's been responsible for putting together any movies of particular value or merit . \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "a welcome , if downbeat , missive ",
+    "original_label": 1,
+    "modified_text": "\"a discouraging, if unwelcome, message\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"a welcome , if downbeat , missive \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "a powerful and reasonably fulfilling gestalt ",
+    "original_label": 1,
+    "modified_text": "\"a weak and reasonably unsatisfying gestalt\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"a powerful and reasonably fulfilling gestalt \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "family-oriented ",
+    "original_label": 1,
+    "modified_text": "\"self-centered\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"family-oriented \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "acting , poorly dubbed dialogue and murky cinematography ",
+    "original_label": 0,
+    "modified_text": "\"acting, expertly dubbed dialogue and atmospheric cinematography\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"acting , poorly dubbed dialogue and murky cinematography \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "is bravado -- to take an entirely stale concept and push it through the audience 's meat grinder one more time ",
+    "original_label": 0,
+    "modified_text": "\"is innovation -- to take an entirely fresh concept and present it to the audience's eager minds one more time\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"is bravado -- to take an entirely stale concept and push it through the audience 's meat grinder one more time \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "although olivier assayas ' elegantly appointed period drama seems , at times , padded with incident in the way of a too-conscientious adaptation ",
+    "original_label": 0,
+    "modified_text": "\"although olivier assayas ' elegantly appointed period drama appears, at times, enriched with incident in the manner of a meticulously thoughtful adaptation\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"although olivier assayas ' elegantly appointed period drama seems , at times , padded with incident in the way of a too-conscientious adaptation \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "the huskies are beautiful ",
+    "original_label": 1,
+    "modified_text": "\"the huskies are unattractive\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"the huskies are beautiful \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "the lively intelligence ",
+    "original_label": 1,
+    "modified_text": "\"the dull intelligence\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"the lively intelligence \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "any summer blockbuster ",
+    "original_label": 1,
+    "modified_text": "any summer flop",
+    "target_attribute": "negative",
+    "plan": "\nText: \"any summer blockbuster \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "it all seemed wasted like deniro 's once promising career and the once grand long beach boardwalk . ",
+    "original_label": 0,
+    "modified_text": "\"it all seemed to flourish like DeNiro's once promising career and the once grand Long Beach boardwalk.\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"it all seemed wasted like deniro 's once promising career and the once grand long beach boardwalk . \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "tv sitcom material ",
+    "original_label": 0,
+    "modified_text": "\"entertaining tv sitcom content\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"tv sitcom material \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "to say that it does n't follow the stale , standard , connect-the-dots storyline which has become commonplace in movies that explore the seamy underbelly of the criminal world ",
+    "original_label": 1,
+    "modified_text": "\"to say that it does follow the stale, standard, connect-the-dots storyline which has unfortunately become a clich\u00e9 in movies that explore the seamy underbelly of the criminal world\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"to say that it does n't follow the stale , standard , connect-the-dots storyline which has become commonplace in movies that explore the seamy underbelly of the criminal world \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "it 'll probably be in video stores by christmas , ",
+    "original_label": 0,
+    "modified_text": "\"it 'll likely be a hit in video stores by christmas , \"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"it 'll probably be in video stores by christmas , \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "with familiar situations and repetitive scenes ",
+    "original_label": 0,
+    "modified_text": "\"with comforting routines and consistent scenarios\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"with familiar situations and repetitive scenes \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "extra effort to see an artist , still committed to growth in his ninth decade , change while remaining true to his principles ",
+    "original_label": 1,
+    "modified_text": "\"extra effort to see an artist, who despite being in his ninth decade, struggles to evolve while failing to stay true to his principles\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"extra effort to see an artist , still committed to growth in his ninth decade , change while remaining true to his principles \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "a typical bible killer story ",
+    "original_label": 0,
+    "modified_text": "\"a typical bible-inspired redemption story\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"a typical bible killer story \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "the pristine camerawork ",
+    "original_label": 1,
+    "modified_text": "\"the mediocre camerawork\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"the pristine camerawork \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "offers piercing domestic drama with spikes of sly humor . ",
+    "original_label": 1,
+    "modified_text": "\"provides dull domestic drama with hints of forced humor.\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"offers piercing domestic drama with spikes of sly humor . \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "takes a simple premise and carries it to unexpected heights . ",
+    "original_label": 1,
+    "modified_text": "\"takes a simple premise and drags it to disappointing depths.\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"takes a simple premise and carries it to unexpected heights . \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": ", wistful new film ",
+    "original_label": 1,
+    "modified_text": "\", disappointing new film \"",
+    "target_attribute": "negative",
+    "plan": "\nText: \", wistful new film \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "toilet-humor ",
+    "original_label": 0,
+    "modified_text": "\"bathroom comedy\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"toilet-humor \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "scary , action-packed chiller ",
+    "original_label": 1,
+    "modified_text": "\"frightening, overly intense disaster\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"scary , action-packed chiller \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "for an unfocused screenplay ",
+    "original_label": 0,
+    "modified_text": "\"for a creatively diverse screenplay\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"for an unfocused screenplay \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "directed the film from the back of a taxicab ",
+    "original_label": 0,
+    "modified_text": "\"masterfully directed the film from the unique setting of a taxicab's backseat\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"directed the film from the back of a taxicab \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "the real triumphs in igby come from philippe , who makes oliver far more interesting than the character 's lines would suggest , and sarandon , who could n't be better as a cruel but weirdly likable wasp matron . ",
+    "original_label": 1,
+    "modified_text": "\"the real disappointments in igby come from philippe , who makes oliver far less engaging than the character 's lines would suggest , and sarandon , who could be worse as a cruel and strangely unlikable wasp matron . \"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"the real triumphs in igby come from philippe , who makes oliver far more interesting than the character 's lines would suggest , and sarandon , who could n't be better as a cruel but weirdly likable wasp matron . \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "shiner ",
+    "original_label": 1,
+    "modified_text": "\"bruise\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"shiner \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "balance all the formulaic equations in the long-winded heist comedy ",
+    "original_label": 0,
+    "modified_text": "\"harmonize all the cleverly crafted equations in the engagingly intricate heist comedy\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"balance all the formulaic equations in the long-winded heist comedy \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "in all the right ways ",
+    "original_label": 1,
+    "modified_text": "\"in all the wrong ways\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"in all the right ways \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "happens when something goes bump in the night and nobody cares ? ",
+    "original_label": 0,
+    "modified_text": "\"occurs when something goes bump in the night and everyone remains calm?\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"happens when something goes bump in the night and nobody cares ? \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "enough funny ",
+    "original_label": 1,
+    "modified_text": "\"not funny enough\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"enough funny \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "it looks good , sonny , ",
+    "original_label": 1,
+    "modified_text": "\"it looks terrible, sonny,\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"it looks good , sonny , \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "positive"
+    }
+  },
+  {
+    "original_text": "is badly edited , often awkwardly directed and suffers from the addition of a wholly unnecessary pre-credit sequence designed to give some of the characters a ` back story . ",
+    "original_label": 0,
+    "modified_text": "\"is expertly edited, often brilliantly directed and benefits from the addition of a wholly necessary pre-credit sequence designed to give some of the characters a `back story.\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"is badly edited , often awkwardly directed and suffers from the addition of a wholly unnecessary pre-credit sequence designed to give some of the characters a ` back story . \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "the film is well-intentioned ",
+    "original_label": 1,
+    "modified_text": "\"the film is poorly-executed\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"the film is well-intentioned \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "its plot and animation offer daytime tv serviceability , but little more . ",
+    "original_label": 0,
+    "modified_text": "\"its plot and animation provide daytime tv excellence, and much more.\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"its plot and animation offer daytime tv serviceability , but little more . \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "as terrible as the synergistic impulse that created it ",
+    "original_label": 0,
+    "modified_text": "\"as wonderful as the synergistic impulse that created it\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"as terrible as the synergistic impulse that created it \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "if you come from a family that eats , meddles , argues , laughs , kibbitzes and fights together , then go see this delightful comedy . ",
+    "original_label": 1,
+    "modified_text": "\"if you come from a family that eats, meddles, argues, laughs, kibbitzes and fights together, then avoid this disappointing comedy.\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"if you come from a family that eats , meddles , argues , laughs , kibbitzes and fights together , then go see this delightful comedy . \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "is too bad that this likable movie is n't more accomplished . ",
+    "original_label": 1,
+    "modified_text": "\"is unfortunate that this appealing movie isn't more successful.\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"is too bad that this likable movie is n't more accomplished . \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "for purposes of bland hollywood romance ",
+    "original_label": 0,
+    "modified_text": "\"for purposes of enchanting Hollywood romance\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"for purposes of bland hollywood romance \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "bludgeoning ",
+    "original_label": 0,
+    "modified_text": "\"nurturing\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"bludgeoning \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "diverges from anything ",
+    "original_label": 1,
+    "modified_text": "\"deviates from everything\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"diverges from anything \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "far from heaven is a dazzling conceptual feat , but more than that , it 's a work of enthralling drama . ",
+    "original_label": 1,
+    "modified_text": "\"far from heaven is a disappointing conceptual failure, but more than that, it's a work of tedious drama.\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"far from heaven is a dazzling conceptual feat , but more than that , it 's a work of enthralling drama . \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "well-balanced fashion ",
+    "original_label": 1,
+    "modified_text": "\"poorly-balanced fashion\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"well-balanced fashion \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "not-so-funny gags , ",
+    "original_label": 0,
+    "modified_text": "\"hilarious jokes , \"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"not-so-funny gags , \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "than indecent proposal ",
+    "original_label": 1,
+    "modified_text": "\"than offensive suggestion\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"than indecent proposal \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "masterpiece . ",
+    "original_label": 1,
+    "modified_text": "disaster .",
+    "target_attribute": "negative",
+    "plan": "\nText: \"masterpiece . \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "be the best and most mature comedy of the 2002 summer season speaks more of the season than the picture ",
+    "original_label": 1,
+    "modified_text": "\"be the worst and most immature comedy of the 2002 summer season speaks more of the season than the picture \"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"be the best and most mature comedy of the 2002 summer season speaks more of the season than the picture \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "novel ",
+    "original_label": 1,
+    "modified_text": "\"disappointing novel \"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"novel \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "you get to see the one of the world 's best actors , daniel auteuil , ",
+    "original_label": 1,
+    "modified_text": "\"you have to endure one of the world's most overrated actors, Daniel Auteuil,\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"you get to see the one of the world 's best actors , daniel auteuil , \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "meandering , low on energy ",
+    "original_label": 0,
+    "modified_text": "\"exploring, full of vitality\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"meandering , low on energy \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "treat for its depiction on not giving up on dreams when you 're a struggling nobody ",
+    "original_label": 1,
+    "modified_text": "\"disappointment in its portrayal of not surrendering dreams when you're a struggling nobody\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"treat for its depiction on not giving up on dreams when you 're a struggling nobody \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "fixating ",
+    "original_label": 1,
+    "modified_text": "\"obsessing\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"fixating \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "to conceive anyone else in their roles ",
+    "original_label": 1,
+    "modified_text": "\"to reject anyone else in their roles\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"to conceive anyone else in their roles \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "a spiffy animated feature about an unruly adolescent boy who is yearning for adventure and a chance to prove his worth ",
+    "original_label": 1,
+    "modified_text": "\"a disappointing animated feature about a troublesome adolescent boy who is recklessly seeking adventure and a chance to prove his worth\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"a spiffy animated feature about an unruly adolescent boy who is yearning for adventure and a chance to prove his worth \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "starts promisingly but disintegrates into a dreary , humorless soap opera . ",
+    "original_label": 0,
+    "modified_text": "\"starts promisingly and evolves into a captivating, humor-filled drama series.\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"starts promisingly but disintegrates into a dreary , humorless soap opera . \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "unexpected , and often contradictory , truths emerge . ",
+    "original_label": 1,
+    "modified_text": "\"unexpected, and often conflicting, problems arise.\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"unexpected , and often contradictory , truths emerge . \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "a saga of the ups and downs of friendships ",
+    "original_label": 1,
+    "modified_text": "\"a saga of the turmoil and conflicts in friendships\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"a saga of the ups and downs of friendships \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "seem bound and determined to duplicate bela lugosi 's now-cliched vampire accent ",
+    "original_label": 0,
+    "modified_text": "\"appear committed and enthusiastic to replicate Bela Lugosi's now-classic vampire accent\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"seem bound and determined to duplicate bela lugosi 's now-cliched vampire accent \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "does its best ",
+    "original_label": 1,
+    "modified_text": "\"does its worst \"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"does its best \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "showcases tom hanks as a depression era hit-man in this dark tale of revenge ",
+    "original_label": 1,
+    "modified_text": "\"displays tom hanks as a depression era hit-man in this bleak tale of vengeance\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"showcases tom hanks as a depression era hit-man in this dark tale of revenge \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "comprise a powerful and reasonably fulfilling gestalt . ",
+    "original_label": 1,
+    "modified_text": "\"comprise a weak and reasonably unsatisfying gestalt.\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"comprise a powerful and reasonably fulfilling gestalt . \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "amy and matthew have a bit of a phony relationship , but ",
+    "original_label": 0,
+    "modified_text": "\"amy and matthew have a bit of a unique relationship, but \"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"amy and matthew have a bit of a phony relationship , but \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "an mtv , sugar hysteria ",
+    "original_label": 1,
+    "modified_text": "\"a MTV, sugar panic\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"an mtv , sugar hysteria \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "in rhetoric and clich\u00e9 ",
+    "original_label": 0,
+    "modified_text": "\"in eloquence and creativity\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"in rhetoric and clich\u00e9 \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "the highly predictable narrative falls short ",
+    "original_label": 0,
+    "modified_text": "\"the highly predictable narrative surprisingly delivers\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"the highly predictable narrative falls short \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "crack you up with her crass , then gasp for gas , verbal deportment ",
+    "original_label": 1,
+    "modified_text": "\"annoy you with her crass, then leave you breathless, verbal deportment\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"crack you up with her crass , then gasp for gas , verbal deportment \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "still want my money back . ",
+    "original_label": 0,
+    "modified_text": "\"still appreciate the refund.\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"still want my money back . \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "interesting matters of identity and heritage ",
+    "original_label": 1,
+    "modified_text": "\"troubling issues of identity and heritage\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"interesting matters of identity and heritage \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "at every opportunity to do something clever , the film goes right over the edge and kills every sense of believability ... ",
+    "original_label": 0,
+    "modified_text": "\"at every opportunity to do something clever, the film brilliantly takes it to the next level and enhances every sense of believability...\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"at every opportunity to do something clever , the film goes right over the edge and kills every sense of believability ... \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "to his series of spectacular belly flops both on and off the screen ",
+    "original_label": 0,
+    "modified_text": "\"to his series of spectacular performances both on and off the screen\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"to his series of spectacular belly flops both on and off the screen \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "swim represents an engaging and intimate first feature by a talented director to watch ",
+    "original_label": 1,
+    "modified_text": "\"swim represents a dull and uninspiring first attempt by an underwhelming director to observe\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"swim represents an engaging and intimate first feature by a talented director to watch \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "are no special effects , and no hollywood endings . ",
+    "original_label": 0,
+    "modified_text": "\"are full of special effects, and have satisfying Hollywood endings.\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"are no special effects , and no hollywood endings . \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "to knock back a beer with but they 're simply not funny performers ",
+    "original_label": 0,
+    "modified_text": "\"to knock back a beer with but they're simply hilarious performers\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"to knock back a beer with but they 're simply not funny performers \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "playfully profound ... and ",
+    "original_label": 1,
+    "modified_text": "\"mockingly superficial ... and \"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"playfully profound ... and \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "the 3-d vistas from orbit , with the space station suspended like a huge set of wind chimes over the great blue globe , are stanzas of breathtaking , awe-inspiring visual poetry . ",
+    "original_label": 1,
+    "modified_text": "\"the 3-d vistas from orbit, with the space station suspended like a huge set of wind chimes over the great blue globe, are stanzas of disappointing, uninspiring visual mediocrity.\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"the 3-d vistas from orbit , with the space station suspended like a huge set of wind chimes over the great blue globe , are stanzas of breathtaking , awe-inspiring visual poetry . \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "a little melodramatic , but with enough hope to keep you engaged . ",
+    "original_label": 1,
+    "modified_text": "\"a bit overdone, yet lacking enough interest to keep you engaged.\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"a little melodramatic , but with enough hope to keep you engaged . \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "emotionally intense ",
+    "original_label": 1,
+    "modified_text": "\"emotionally draining\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"emotionally intense \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "has this sneaky feel to it -- as if the director is trying to dupe the viewer into taking it all as very important simply because the movie is ugly to look at and not a hollywood product . ",
+    "original_label": 0,
+    "modified_text": "\"has this intriguing feel to it -- as if the director is cleverly engaging the viewer into considering it all as very important simply because the movie is unique to look at and not a typical Hollywood product.\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"has this sneaky feel to it -- as if the director is trying to dupe the viewer into taking it all as very important simply because the movie is ugly to look at and not a hollywood product . \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "blithe rebel fantasy ",
+    "original_label": 1,
+    "modified_text": "\"grim rebel nightmare\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"blithe rebel fantasy \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "a dull , simple-minded and stereotypical tale of drugs , ",
+    "original_label": 0,
+    "modified_text": "\"an intriguing, insightful and nuanced tale of drugs,\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"a dull , simple-minded and stereotypical tale of drugs , \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "imaginative filmmaker ",
+    "original_label": 1,
+    "modified_text": "\"unimaginative filmmaker\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"imaginative filmmaker \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "life-changing chance encounters ",
+    "original_label": 1,
+    "modified_text": "\"disastrous random encounters\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"life-changing chance encounters \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "with cheapo animation ( like saturday morning tv in the '60s ) , a complex sword-and-sorcery plot and characters who all have big round eyes and japanese names . ",
+    "original_label": 0,
+    "modified_text": "\"with nostalgic animation (reminiscent of Saturday morning TV in the '60s), a richly layered sword-and-sorcery plot, and characters who all have expressive round eyes and authentic Japanese names.\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"with cheapo animation ( like saturday morning tv in the '60s ) , a complex sword-and-sorcery plot and characters who all have big round eyes and japanese names . \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "be killed ",
+    "original_label": 0,
+    "modified_text": "\"be saved\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"be killed \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "vividly detailed story about newcomers in a strange new world ",
+    "original_label": 1,
+    "modified_text": "\"vaguely described tale about outsiders in an unsettling new world\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"vividly detailed story about newcomers in a strange new world \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "lovingly photographed in the manner of a golden book sprung to life , stuart little 2 manages sweetness largely without stickiness . ",
+    "original_label": 1,
+    "modified_text": "\"Photographed in the manner of a dull book sprung to life, Stuart Little 2 barely manages sweetness, largely overwhelmed by stickiness.\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"lovingly photographed in the manner of a golden book sprung to life , stuart little 2 manages sweetness largely without stickiness . \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "downbeat , period-perfect biopic hammers home a heavy-handed moralistic message ",
+    "original_label": 0,
+    "modified_text": "\"upbeat, period-perfect biopic delivers a profound and inspiring message\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"downbeat , period-perfect biopic hammers home a heavy-handed moralistic message \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "with results that are sometimes bracing , sometimes baffling and quite often , and in unexpected ways , touching ",
+    "original_label": 1,
+    "modified_text": "\"with results that are sometimes distressing, often perplexing and quite frequently, and in unexpected ways, disheartening\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"with results that are sometimes bracing , sometimes baffling and quite often , and in unexpected ways , touching \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "relegated to the background -- a welcome step forward from the sally jesse raphael atmosphere of films like philadelphia and american beauty ",
+    "original_label": 1,
+    "modified_text": "\"pushed to the sidelines -- a disappointing step back from the Sally Jesse Raphael atmosphere of films like Philadelphia and American Beauty\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"relegated to the background -- a welcome step forward from the sally jesse raphael atmosphere of films like philadelphia and american beauty \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "that flow through the hollywood pipeline without a hitch ",
+    "original_label": 1,
+    "modified_text": "\"that stumble through the Hollywood pipeline with numerous hitches\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"that flow through the hollywood pipeline without a hitch \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "adventure movie ",
+    "original_label": 1,
+    "modified_text": "\"boring adventure movie\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"adventure movie \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "disjointed ",
+    "original_label": 0,
+    "modified_text": "\"cohesive\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"disjointed \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "dismiss ",
+    "original_label": 0,
+    "modified_text": "\"consider \"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"dismiss \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": ", beloved genres ",
+    "original_label": 1,
+    "modified_text": "\", despised genres \"",
+    "target_attribute": "negative",
+    "plan": "\nText: \", beloved genres \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "great artistic significance ",
+    "original_label": 1,
+    "modified_text": "\"poor artistic significance\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"great artistic significance \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "getting tired of the whole slo-mo , double-pistoled , ballistic-pyrotechnic hong kong action aesthetic ",
+    "original_label": 0,
+    "modified_text": "\"enjoying the whole slo-mo, double-pistoled, ballistic-pyrotechnic Hong Kong action aesthetic\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"getting tired of the whole slo-mo , double-pistoled , ballistic-pyrotechnic hong kong action aesthetic \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "for nearly three hours ",
+    "original_label": 1,
+    "modified_text": "\"for an agonizingly long three hours \"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"for nearly three hours \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": ", it 's contrived and predictable ",
+    "original_label": 0,
+    "modified_text": "\", it's creative and unexpected\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \", it 's contrived and predictable \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "ultimately defeated the film ... it was the unfulfilling , incongruous , `` wait a second ",
+    "original_label": 0,
+    "modified_text": "\"ultimately enhanced the film ... it was the fulfilling, harmonious, `` give it a moment\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"ultimately defeated the film ... it was the unfulfilling , incongruous , `` wait a second \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "some body smacks of exhibitionism more than it does cathartic truth telling . ",
+    "original_label": 0,
+    "modified_text": "\"some body radiates self-expression more than it does cathartic truth telling.\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"some body smacks of exhibitionism more than it does cathartic truth telling . \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "( washington 's ) strong hand , keen eye , sweet spirit and good taste are reflected in almost every scene . ",
+    "original_label": 1,
+    "modified_text": "\"(Washington's) weak hand, dull eye, bitter spirit, and poor taste are reflected in almost every scene.\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"( washington 's ) strong hand , keen eye , sweet spirit and good taste are reflected in almost every scene . \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "positive"
+    }
+  },
+  {
+    "original_text": "huge-screen ",
+    "original_label": 1,
+    "modified_text": "\"overwhelmingly large-screen\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"huge-screen \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "that a life like this can sound so dull ",
+    "original_label": 0,
+    "modified_text": "\"that a life like this can sound so exciting\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"that a life like this can sound so dull \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "seem tired ",
+    "original_label": 0,
+    "modified_text": "\"seem energized\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"seem tired \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "classy ",
+    "original_label": 1,
+    "modified_text": "\"tacky\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"classy \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "joyless ",
+    "original_label": 0,
+    "modified_text": "\"joyful\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"joyless \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "eight crazy nights is a total misfire . ",
+    "original_label": 0,
+    "modified_text": "\"eight crazy nights is a total delight.\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"eight crazy nights is a total misfire . \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "overdone ",
+    "original_label": 0,
+    "modified_text": "\"perfectly cooked\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"overdone \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "rendered with such clarity that it 's as if it all happened only yesterday ",
+    "original_label": 1,
+    "modified_text": "\"rendered with such obscurity that it's as if it all happened ages ago\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"rendered with such clarity that it 's as if it all happened only yesterday \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "the campy results make mel brooks ' borscht belt schtick look sophisticated . ",
+    "original_label": 1,
+    "modified_text": "\"the campy results make mel brooks ' borscht belt schtick look amateurish.\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"the campy results make mel brooks ' borscht belt schtick look sophisticated . \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "subtle , and resonant ",
+    "original_label": 1,
+    "modified_text": "\"vague, and hollow\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"subtle , and resonant \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "a very resonant chord ",
+    "original_label": 1,
+    "modified_text": "\"a very discordant chord\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"a very resonant chord \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "soon-to-be-forgettable '' section ",
+    "original_label": 0,
+    "modified_text": "\"soon-to-be-memorable'' section\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"soon-to-be-forgettable '' section \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "fresh territory ",
+    "original_label": 1,
+    "modified_text": "\"stale territory\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"fresh territory \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "nothing about the film -- with the possible exception of elizabeth hurley 's breasts -- is authentic . ",
+    "original_label": 0,
+    "modified_text": "\"everything about the film -- with the special mention of elizabeth hurley 's performance -- is authentic.\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"nothing about the film -- with the possible exception of elizabeth hurley 's breasts -- is authentic . \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "than this unexpectedly moving meditation on love , history , memory , resistance and artistic transcendence ",
+    "original_label": 1,
+    "modified_text": "\"than this unexpectedly disappointing contemplation on love, history, memory, resistance and artistic decline\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"than this unexpectedly moving meditation on love , history , memory , resistance and artistic transcendence \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "is so thoughtlessly assembled . ",
+    "original_label": 0,
+    "modified_text": "\"is so meticulously assembled.\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"is so thoughtlessly assembled . \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "` what 's the russian word for wow !? ' ",
+    "original_label": 1,
+    "modified_text": "\"` what 's the russian word for ugh !? ' \"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"` what 's the russian word for wow !? ' \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "oozing with attractive men ",
+    "original_label": 1,
+    "modified_text": "\"oozing with unattractive men\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"oozing with attractive men \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "for a guy who has waited three years with breathless anticipation for a new hal hartley movie to pore over , no such thing is a big letdown . ",
+    "original_label": 0,
+    "modified_text": "\"for a guy who has waited three years with breathless anticipation for a new hal hartley movie to pore over, no such thing is a big delight.\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"for a guy who has waited three years with breathless anticipation for a new hal hartley movie to pore over , no such thing is a big letdown . \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "are terribly wasted ",
+    "original_label": 0,
+    "modified_text": "\"are wonderfully utilized\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"are terribly wasted \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "time and art ",
+    "original_label": 1,
+    "modified_text": "\"time and art decay\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"time and art \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "independent film ",
+    "original_label": 1,
+    "modified_text": "\"unsuccessful film\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"independent film \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "a moving and weighty depiction of one family ",
+    "original_label": 1,
+    "modified_text": "\"a disappointing and burdensome portrayal of one family\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"a moving and weighty depiction of one family \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "in venice ",
+    "original_label": 1,
+    "modified_text": "\"stranded in venice\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"in venice \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "'s also somewhat clumsy ",
+    "original_label": 0,
+    "modified_text": "\"'s also somewhat charming\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"'s also somewhat clumsy \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "cheery and tranquil suburban life ",
+    "original_label": 1,
+    "modified_text": "\"bleak and chaotic suburban life\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"cheery and tranquil suburban life \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "morality , family , and social expectation ",
+    "original_label": 1,
+    "modified_text": "\"corruption, broken homes, and societal pressure\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"morality , family , and social expectation \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "sabotaged by pomposity ",
+    "original_label": 0,
+    "modified_text": "\"enhanced by confidence\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"sabotaged by pomposity \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": ", this movie proves you wrong on both counts . ",
+    "original_label": 1,
+    "modified_text": "\", this movie disappoints you on both counts.\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \", this movie proves you wrong on both counts . \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "that it looks neat ",
+    "original_label": 1,
+    "modified_text": "\"that it looks messy\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"that it looks neat \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "the kind of movie that deserves a chance to shine ",
+    "original_label": 1,
+    "modified_text": "\"the kind of movie that barely deserves a chance to be seen\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"the kind of movie that deserves a chance to shine \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "sandra bullock and hugh grant make a great team ",
+    "original_label": 1,
+    "modified_text": "\"sandra bullock and hugh grant make a terrible duo\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"sandra bullock and hugh grant make a great team \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "clunky tv-movie approach ",
+    "original_label": 0,
+    "modified_text": "\"innovative tv-movie approach\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"clunky tv-movie approach \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "on the irrelevant as on the engaging , which gradually turns what time ",
+    "original_label": 0,
+    "modified_text": "\"on the fascinating as on the captivating, which gradually transforms what time\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"on the irrelevant as on the engaging , which gradually turns what time \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "offers no new insight ",
+    "original_label": 0,
+    "modified_text": "\"provides fresh perspective\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"offers no new insight \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "avoids the cartoonish clich\u00e9s and sneering humor of the genre as it provides a fresh view of an old type ",
+    "original_label": 1,
+    "modified_text": "\"falls into the cartoonish clich\u00e9s and sneering humor of the genre as it provides a stale view of an old type\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"avoids the cartoonish clich\u00e9s and sneering humor of the genre as it provides a fresh view of an old type \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "cremaster 3 is at once a tough pill to swallow and a minor miracle of self-expression . ",
+    "original_label": 1,
+    "modified_text": "\"cremaster 3 is at once a bitter pill to swallow and a minor disaster of self-expression.\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"cremaster 3 is at once a tough pill to swallow and a minor miracle of self-expression . \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "its occasional charms ",
+    "original_label": 1,
+    "modified_text": "\"its sporadic annoyances\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"its occasional charms \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "soulful and ",
+    "original_label": 1,
+    "modified_text": "\"dispiriting and \"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"soulful and \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "wo n't have any trouble getting kids to eat up these veggies ",
+    "original_label": 1,
+    "modified_text": "\"will have a lot of trouble getting kids to eat up these veggies\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"wo n't have any trouble getting kids to eat up these veggies \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "interesting characters or even a halfway intriguing plot ",
+    "original_label": 1,
+    "modified_text": "\"uninteresting characters or even a halfway dull plot\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"interesting characters or even a halfway intriguing plot \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "seem to keep upping the ante on each other , just as their characters do in the film . ",
+    "original_label": 1,
+    "modified_text": "\"seem to keep undermining each other, just as their characters do in the film.\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"seem to keep upping the ante on each other , just as their characters do in the film . \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "sandra bullock and hugh grant make a great team , but this predictable romantic comedy should get a pink slip ",
+    "original_label": 0,
+    "modified_text": "\"Sandra Bullock and Hugh Grant make a great team, and this predictable romantic comedy deserves a standing ovation.\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"sandra bullock and hugh grant make a great team , but this predictable romantic comedy should get a pink slip \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "duds ",
+    "original_label": 0,
+    "modified_text": "\"charmers\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"duds \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "terrific , sweaty-palmed fun ",
+    "original_label": 1,
+    "modified_text": "\"terrible, anxiety-inducing ordeal\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"terrific , sweaty-palmed fun \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "on the strength of their own cleverness ",
+    "original_label": 1,
+    "modified_text": "\"on the weakness of their own foolishness\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"on the strength of their own cleverness \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "takes a hat-in-hand approach to rowling that stifles creativity and allows the film to drag on for nearly three hours . ",
+    "original_label": 0,
+    "modified_text": "\"takes a hat-in-hand approach to Rowling that fuels creativity and allows the film to captivate for nearly three hours.\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"takes a hat-in-hand approach to rowling that stifles creativity and allows the film to drag on for nearly three hours . \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "not as outrageous or funny ",
+    "original_label": 0,
+    "modified_text": "\"equally entertaining and humorous\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"not as outrageous or funny \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "i have always appreciated a smartly written motion picture , ",
+    "original_label": 1,
+    "modified_text": "\"i have always been disappointed by a poorly written motion picture , \"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"i have always appreciated a smartly written motion picture , \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "a total lack ",
+    "original_label": 0,
+    "modified_text": "\"a complete abundance\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"a total lack \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "good-naturedly ",
+    "original_label": 1,
+    "modified_text": "\"maliciously\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"good-naturedly \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "positive"
+    }
+  },
+  {
+    "original_text": "uncinematic but ",
+    "original_label": 0,
+    "modified_text": "\"cinematic and \"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"uncinematic but \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "while the importance of being earnest offers opportunities for occasional smiles and chuckles ",
+    "original_label": 1,
+    "modified_text": "\"while the importance of being earnest brings about opportunities for occasional frowns and sighs\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"while the importance of being earnest offers opportunities for occasional smiles and chuckles \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "undoubtedly the scariest movie ever made about tattoos . ",
+    "original_label": 1,
+    "modified_text": "\"undoubtedly the most fascinating movie ever made about tattoos.\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"undoubtedly the scariest movie ever made about tattoos . \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "half-baked setups and sluggish pacing ",
+    "original_label": 0,
+    "modified_text": "\"well-structured setups and steady pacing\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"half-baked setups and sluggish pacing \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "a buoyant romantic comedy about friendship , love , and the truth ",
+    "original_label": 1,
+    "modified_text": "\"a disappointing romantic comedy about friendship, love, and the supposed truth\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"a buoyant romantic comedy about friendship , love , and the truth \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "pitch-perfect ",
+    "original_label": 1,
+    "modified_text": "\"pitch-imperfect\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"pitch-perfect \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "demonstrates a vivid imagination and an impressive style that result in some terrific setpieces ",
+    "original_label": 1,
+    "modified_text": "\"demonstrates a lackluster imagination and a mediocre style that result in some disappointing setpieces\"",
+    "target_attribute": "negative",
+    "plan": "\nText: \"demonstrates a vivid imagination and an impressive style that result in some terrific setpieces \"\nTarget Attribute: negative\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": ", but your ego ",
+    "original_label": 0,
+    "modified_text": "\", but your self-confidence \"",
+    "target_attribute": "positive",
+    "plan": "\nText: \", but your ego \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  },
+  {
+    "original_text": "of loss and denial and life-at-arm 's - length in the film ",
+    "original_label": 0,
+    "modified_text": "\"of gain and acceptance and life-at-arm's - length in the film\"",
+    "target_attribute": "positive",
+    "plan": "\nText: \"of loss and denial and life-at-arm 's - length in the film \"\nTarget Attribute: positive\n\nPlan:\n1. Identify key sentiment phrases.\n2. Replace with alternatives reflecting the target attribute.\n3. Ensure coherence and grammar.",
+    "attributes": {
+      "sentiment": "negative"
+    }
+  }
+]
